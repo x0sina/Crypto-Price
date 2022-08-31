@@ -254,7 +254,7 @@ class UI {
         </div>
         </a>
     </td>
-    <td class="hidden text-[#000000cc] font-bold lg:table-cell pr-12">
+    <td class="hidden text-[#000000cc] dark:text-white font-bold lg:table-cell pr-12">
         ${circulatingSupply}
     </td>
     <td class="hidden text-[#000000cc] dark:text-white font-bold sm:table-cell pr-12">
