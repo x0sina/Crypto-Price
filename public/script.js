@@ -339,7 +339,6 @@ class ROU {
         main.innerHTML = "";
         if (asset) {
             let changePct;
-            console.log(asset["1d"].price)
             if ((typeof asset["1d"]) == "object") {
                 changePct = (asset["1d"].price_change_pct * 100).toFixed(2);
             } else {
